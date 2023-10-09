@@ -6,9 +6,9 @@ Java and Kotlin Dev
 
 I'm a new programmer and looking for a direction for myself
 
-* 🌍  I'm based in VietNam
+* 🌍  I'm live in VietNam
 * ✉️  You can contact me at [minhduc09925@gmail.com](mailto:minhduc09925@gmail.com)
-* 🧠  I'm learning more about C and C++,
+* 🧠  I'm still learning more about C and C++
 
 <a href="https://www.github.com/KuroHere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KuroHere?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
