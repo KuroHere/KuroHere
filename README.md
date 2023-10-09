@@ -1,5 +1,5 @@
 # 🛹 About Me:
-• I'm KuroHere vietnamese dev
+• I'm KuroHere vietnamese dev /n
 • I'm currently working on Java, Kotlin and C++
 #
 
