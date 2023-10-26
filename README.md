@@ -1,4 +1,4 @@
-# Hi 👋 My name is KuroHere
+# Hi 👋 I'm Kuro
 =========================
 
 Java and Kotlin Dev
