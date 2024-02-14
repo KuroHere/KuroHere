@@ -6,13 +6,12 @@
 
 I'm a new programmer and looking for a direction for myself
 
-* 🌍  I'm live in VietNam
-* ✉️  You can contact me at [minhduc09925@gmail.com](mailto:minhduc09925@gmail.com)
+* 🌍  I'm from vietnam
 * 🧠  I'm still learning more about C and C++
 
 ---
 
-### Frameworks and languages I'm using
+### Frameworks and languages I'm using for now
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
