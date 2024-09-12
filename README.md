@@ -7,7 +7,7 @@
 I'm a new programmer and looking for a direction for myself
 
 * 🌍  I'm from vietnam
-* 🧠  I'm still learning more about C and C++
+* 🧠  I'm still learning more about jaava, kotlin and C++
 
 ---
 
