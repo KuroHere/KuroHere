@@ -1,13 +1,6 @@
+# KuroHere 👋
+new programmer and looking for a direction for myself.
 <div align="center">
-
-# Hi I'm Kuro
-
-----
-
-I'm a new programmer and looking for a direction for myself
-
-* 🌍  I'm from vietnam
-* 🧠  I'm still learning more about java, kotlin and C++
 
 ---
 
