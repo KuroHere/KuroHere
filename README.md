@@ -8,6 +8,8 @@ new programmer and looking for a direction for myself.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=CSS&logoColor=white)
 
 ### My GitHub Stats
 
