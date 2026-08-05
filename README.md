@@ -5,11 +5,7 @@
 I'm a new programmer, currently exploring different technologies  
 and finding the direction that suits me best.
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-5B8C5A?style=flat-square&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-
 </div>
-
----
 
 ## Tech stack
 
@@ -30,9 +26,9 @@ and finding the direction that suits me best.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KuroHere&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="KuroHere's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroHere&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="KuroHere's most used languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroHere&theme=github-dark-blue&hide_border=true" alt="KuroHere's contribution streak" />
+![](https://github-readme-stats.vercel.app/api?username=KuroHere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KuroHere&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroHere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
