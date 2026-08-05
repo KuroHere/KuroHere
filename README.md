@@ -5,20 +5,12 @@
 I'm a new programmer, currently exploring different technologies  
 and finding the direction that suits me best.
 
-</div>
+<h3>Tech stack</h3>
 
-## Tech stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/%20-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/%20-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/%20-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/%20-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/%20-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/%20-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/%20-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Ruby](https://img.shields.io/badge/%20-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+<img src="https://img.shields.io/badge/%E2%80%8B-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=555" height="24" alt="Java">
+<img src="https://img.shields.io/badge/%E2%80%8B-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=555" height="24" alt="Kotlin">
+<img src="https://img.shields.io/badge/%E2%80%8B-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=555" height="24" alt="HTML5">
+<img src="https://img.shields.io/badge/%E2%80%8B-CSS-1572B6?style=flat-square&logo=css&logoColor=white&labelColor=555" height="24" alt="CSS">
 
 </div>
 
@@ -26,9 +18,9 @@ and finding the direction that suits me best.
 
 <div align="center">
 
-![](https://github-stats-extended.vercel.app/api?username=KuroHere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KuroHere&theme=dark&hide_border=false)<br/>
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=KuroHere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KuroHere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KuroHere&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroHere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
